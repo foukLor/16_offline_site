@@ -1,6 +1,7 @@
 # New Site Template
 
-[TODO. There will be project description]
+This template of site, that you can use in ofline.
+Original: http://getbootstrap.com/examples/jumbotron/
 
 # Project Goals
 
